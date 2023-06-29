@@ -1,0 +1,3 @@
+/home/alex/Desktop/HomeWork/Final_Work/cmake-build-debug/CMakeFiles/Final_Work.dir
+/home/alex/Desktop/HomeWork/Final_Work/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/Desktop/HomeWork/Final_Work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
